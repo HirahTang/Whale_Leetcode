@@ -216,3 +216,80 @@ Datawhale 刷题群
         <td>李碧涵</td>
     </tr> 
 </table>
+
+### Topic 8-9  [回溯法](https://gitee.com/km601/whaleLeetcode/blob/main/Topic8_Back_tracking/readme.md)  [【录屏讲解】](https://datawhale.feishu.cn/file/boxcnhP8vjvJfPhFMeU8Cvx2Qpg)
+
+<table>
+    <tr>
+        <td>题目</td>
+        <td>Leetcode 链接</td>
+        <td>难度</td>
+        <td>学习笔记</td>
+    </tr>
+    <tr>
+        <td>1688. 比赛中的配对次数</td>
+        <td>
+            <a href="https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof">Leetcode链接</a>
+        </td>
+        <td>简单</td>
+        <td>
+            <a href="https://gitee.com/km601/whaleLeetcode/blob/main/Topic8_Back_tracking/No1688比赛中的配对次数.py">学习笔记</a>
+        </td>
+        <td>王翔</td>
+    </tr>
+    <tr>
+        <td>22. 括号生成</td>
+        <td>
+            <a href="https://leetcode-cn.com/problems/generate-parentheses/">Leetcode链接</a>
+        </td>
+        <td>中等</td>
+        <td>
+            <a href="https://gitee.com/km601/whaleLeetcode/blob/main/Topic8_Back_tracking/No22_GenerateParentheses.md">学习笔记</a>
+        </td>
+        <td>赵越</td>
+    </tr>
+    <tr>
+        <td>46.全排列</td>
+        <td>
+            <a href="https://leetcode-cn.com/problems/permutations/">Leetcode链接</a>
+        </td>
+        <td>中等</td>
+        <td>
+            <a href="https://gitee.com/km601/whaleLeetcode/blob/main/Topic8_Back_tracking/No46_Permutations.java">学习笔记</a>
+        </td>
+        <td>赵越</td>
+    </tr>
+    <tr>
+        <td>No131分割回文串</td>
+        <td>
+            <a href="https://leetcode-cn.com/problems/palindrome-partitioning/">Leetcode链接</a>
+        </td>
+        <td>中等</td>
+        <td>
+            <a href="https://gitee.com/km601/whaleLeetcode/blob/main/Topic8_Back_tracking/No131分割回文串.md">学习笔记</a>
+        </td>
+        <td> 郭大龙</td>
+    </tr>
+    <tr>
+        <td>No200岛屿数量</td>
+        <td>
+            <a href="https://leetcode-cn.com/problems/number-of-islands/">Leetcode链接</a>
+        </td>
+        <td>中等</td>
+        <td>
+            <a href="https://gitee.com/km601/whaleLeetcode/blob/main/Topic8_Back_tracking/No200岛屿数量.pdf">学习笔记</a>
+        </td>
+        <td> 郭大龙</td>
+    </tr>
+    <tr>
+        <td>【关于回溯法】那些你不知道的事</td>
+        <td>
+            <a href="#">对于 回溯法 体型总结</a>
+        </td>
+        <td>中等</td>
+        <td>
+            <a href="https://gitee.com/km601/whaleLeetcode/blob/main/Topic8_Back_tracking/readme.md">【关于回溯法】那些你不知道的事</a>
+        </td>
+        <td> 杨夕</td>
+    </tr>
+</table>
