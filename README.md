@@ -293,3 +293,58 @@ Datawhale 刷题群
         <td> 杨夕</td>
     </tr>
 </table>
+
+### Topic 10  [贪心算法](Toppic10_greedy)  
+
+<table>
+    <tr>
+        <td>题目</td>
+        <td>Leetcode 链接</td>
+        <td>难度</td>
+        <td>学习笔记</td>
+    </tr>
+    <tr>
+        <td>134. 加油站</td>
+        <td>
+            <a href="https://leetcode-cn.com/problems/gas-station">Leetcode链接</a>
+        </td>
+        <td>简单</td>
+        <td>
+            <a href="Toppic10_greedy/134..pdf">学习笔记</a>
+        </td>
+        <td>伟龙</td>
+    </tr>
+    <tr>
+        <td>1221. 分割平衡字符串</td>
+        <td>
+            <a href="https://leetcode-cn.com/problems/split-a-string-in-balanced-strings">Leetcode链接</a>
+        </td>
+        <td>中等</td>
+        <td>
+            <a href="Toppic10_greedy/1221.pdf">学习笔记</a>
+        </td>
+        <td>李玲</td>
+    </tr>
+    <tr>
+        <td>406. 根据身高重建队列</td>
+        <td>
+            <a href="https://leetcode-cn.com/problems/queue-reconstruction-by-height">Leetcode链接</a>
+        </td>
+        <td>中等</td>
+        <td>
+            <a href="Toppic10_greedy/T406_reconstructQueue/readme.md">学习笔记</a>
+        </td>
+        <td>杨夕</td>
+    </tr>
+    <tr>
+        <td>765.情侣牵手</td>
+        <td>
+            <a href="https://leetcode-cn.com/problems/couples-holding-hands">Leetcode链接</a>
+        </td>
+        <td>困难</td>
+        <td>
+            <a href="Toppic10_greedy/765.情侣牵手.pdf">学习笔记</a>
+        </td>
+        <td> 左同斌</td>
+    </tr>
+</table>
